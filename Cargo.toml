@@ -1,8 +1,10 @@
 [package]
 name = "cargo-filter"
 version = "0.1.0"
-authors = ["do4gr <matthias.oertel@gmx.net>"]
+authors = ["do4gr"]
 edition = "2018"
+description = "Removes noise from running cargo test with a filter."
+licenses = ["MIT"] 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
